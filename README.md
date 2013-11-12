@@ -1,3 +1,17 @@
+# SuperMailCatcher
+
+I am consolidating interesting forks and features which the original project is not willing to add
+
+* http auth for http
+* forward to a email address
+* persistant storage
+
+
+work in progress
+
+
+
+
 # MailCatcher
 
 Catches mail and serves it through a dream.
